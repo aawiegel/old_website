@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map of 2016 Population of each US state"
 author: "Aaron W"
 date: "February 8, 2017"
 output: html_document
@@ -14,8 +14,6 @@ library(dplyr)
 library(leaflet)
 library(knitr)
 ```
-
-# Map of 2016 Population of each US state
 
 This leaflet page shows the population estimates of each US state in 2016 with colored bubbles.
 
